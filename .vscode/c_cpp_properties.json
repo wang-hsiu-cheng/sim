@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/twang/dit_ros2023/src/basiclearn/include/**",
+        "/home/twang/dit_ros2023/src/practice/include/**",
+        "/home/twang/dit_ros2023/src/sim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
